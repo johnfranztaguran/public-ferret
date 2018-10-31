@@ -1,6 +1,6 @@
 {
   "name": "public-splashrx",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "dependencies": {
     "antd": "^3.7.0",
     "clone": "^2.1.1",
